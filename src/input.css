@@ -1,0 +1,6 @@
+/* Tailwind v4 */
+@import 'tailwindcss';
+
+@theme {
+  --color-origamid: #aa88ff;
+}
